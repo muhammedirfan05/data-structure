@@ -1,0 +1,22 @@
+1. Bubble Sort:
+   - Best-case time complexity: \(O(n)\) (when the array is already sorted)
+   - Average-case time complexity: \(O(n^2)\)
+   - Worst-case time complexity: \(O(n^2)\)
+
+2. Insertion Sort:
+   - Best-case time complexity: \(O(n)\) (when the array is nearly sorted)
+   - Average-case time complexity: \(O(n^2)\)
+   - Worst-case time complexity: \(O(n^2)\)
+
+3. Merge Sort:
+   - Time complexity: \(O(n \log n)\) in all cases (best-case, average-case, worst-case)
+
+4. Selection Sort:
+   - Best-case time complexity: \(O(n^2)\)
+   - Average-case time complexity: \(O(n^2)\)
+   - Worst-case time complexity: \(O(n^2)\)
+
+5. Quick Sort:
+   - Best-case time complexity: \(O(n \log n)\) (when the pivot divides the array into equal halves)
+   - Average-case time complexity: \(O(n \log n)\)
+   - Worst-case time complexity: \(O(n^2)\) (when the pivot consistently selects the smallest or largest element)
